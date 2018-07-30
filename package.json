@@ -1,0 +1,24 @@
+{
+  "name": "web",
+  "version": "1.0.0",
+  "description": "This is a something",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite" ,
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TimaShams/Web-development.git"
+  },
+  "author": "Fatema Shams",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TimaShams/Web-development/issues"
+  },
+  "homepage": "https://github.com/TimaShams/Web-development#readme",
+  "dependencies": {
+    "lite-server": "^2.4.0"
+  }
+}
